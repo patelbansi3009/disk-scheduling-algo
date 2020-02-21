@@ -1,2 +1,8 @@
 # disk-scheduling-algo
-Here are some Disk Scheduling Algorithms in C Language
+Disk Scheduling Algorithms in C Language
+
+The Algorithms That Are Uploaded Are Listed Below
+  
+    1.Shortest Seek Time First
+    
+    2.Circular Scan
